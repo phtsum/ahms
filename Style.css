@@ -1,0 +1,18 @@
+*{
+	margin:0px;
+	padding: 0px;
+}
+.navbar{
+	background: coral;
+	font-family: fantasy;
+	height: 50px;
+	text-align: right;
+	padding-top: 25px;
+	padding-left: 0px;
+	color: white;
+} 
+nav a{
+	padding-right: 20px;
+	list-style:amharic;
+
+}
